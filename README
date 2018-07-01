@@ -4,6 +4,14 @@ Please install and use it via composer:
 
 "require" : {
 		"pear/image_qrcode" : ">=1.0"
-	},
+	}
+	
+Package Repository:
+
+https://github.com/chof747/pear-image_qrcode/
+	
+In case of issues please report to:
+
+https://github.com/chof747/pear-image_qrcode/issues
 	
 Main Credits go to Rich Sage <https://richsage.uk/> and the Pear community for the implementation of the library.
