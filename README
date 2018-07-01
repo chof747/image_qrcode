@@ -1,19 +1,9 @@
-This package is http://pear.php.net/package/Image_QRCode and has been migrated from https://svn.php.net/repository/pear/packages/Image_QRCode
+This package is a port from http://pear.php.net/package/Image_QRCode for packagist
 
-Please report all new issues via the PEAR bug tracker.
+Please install and use it via composer:
 
-If this package is marked as unmaintained and you have fixes, please submit your pull requests and start discussion on the pear-qa mailing list.
-
-To test, run either
-$ phpunit tests/
-  or
-$ pear run-tests -r
-
-To build, simply
-$ pear package
-
-To install from scratch
-$ pear install package.xml
-
-To upgrade
-$ pear upgrade -f package.xml
+"require" : {
+		"pear/image_qrcode" : ">=1.0"
+	},
+	
+Main Credits go to Rich Sage <https://richsage.uk/> and the Pear community for the implementation of the library.

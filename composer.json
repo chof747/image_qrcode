@@ -12,5 +12,15 @@
 	},
 	"require-dev" : {
 		"phpunit/phpunit" : "^5.7"
-	}
+	},
+	"authors" : [{
+			"name" : "Christian Hofbauer",
+			"email" : "chof@gmx.at",
+			"role" : "Porter to Packagist"
+		}, {
+			"name" : "Rich Sage",
+			"homepage" : "https://richsage.uk/",
+			"role" : "Original Author of Pear Package"
+		}
+	]
 }
