@@ -4,8 +4,8 @@
 			"Image" : "src"
 		}
 	},
-	"name" : "pear/image_qrcode",
-	"description" : "Port of the Image_QRCode to Packagist",
+	"name" : "org.chof/image_qrcode",
+	"description" : "Port of the Image_QRCode to Packagist from Pear",
 	"license" : "LGPL-2.1+",
 	"require" : {
 		"php" : ">=5.6"
